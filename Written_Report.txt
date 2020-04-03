@@ -1,0 +1,7 @@
+Pymoli Conclusions:
+
+- With 780 total purchases and 576 unique purchases, the data shows that a small percentage (~26%) of users make more than one purchase.
+
+- The users a mostly male. Female users do however spend more money on average. The average female age is also slightly younger, however all users avergage about the same age (20 - 25 years).
+
+- Even though they don't make up the highest demographic, ages 25-29 are more likely to make additional purchases.   
